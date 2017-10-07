@@ -2,3 +2,10 @@ h1{
   color:red;
   background-color: green;
 }
+
+p{
+  font-family: fantasy;
+  color: blue;
+  font-style: italic;
+  font-weight: bold;
+}
