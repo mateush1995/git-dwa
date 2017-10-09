@@ -9,3 +9,8 @@ p{
   font-style: italic;
   font-weight: bold;
 }
+
+#paragraf{
+  color: lightblue;
+  background-color: grey;
+}
